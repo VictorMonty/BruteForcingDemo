@@ -2,4 +2,4 @@
 
 A simple password brute forcing demonstration tool.
 
-Run each .cs file or the full .csproj file.
+Run both Form1.cs and Form1.Designer.cs or view the full .csproj file in Visual Studio.
